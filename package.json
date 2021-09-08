@@ -4,6 +4,7 @@
     "author": "Mervin Villaceran",
     "description": "Freecodecamp Backend Development Certification",
     "keywords": ["freecodecamp", "backend", "development", "certification"],
+    "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

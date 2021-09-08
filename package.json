@@ -3,6 +3,7 @@
     "version": "0.0.1",
     "author": "Mervin Villaceran",
     "description": "Freecodecamp Backend Development Certification",
+    "keywords": ["Freecodecamp", "Backend", "Development", "Certification"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
